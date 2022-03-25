@@ -22,7 +22,7 @@ public class areaCirculo
         raio = entrada.nextDouble();
         
         //realizar calulo
-        area = n*(raio*raio);
+        area = n* Math.pow(raio, 2);
         
         //apresentar resultado
         //System.out.println("A = " + area);
