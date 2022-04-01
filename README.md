@@ -5,3 +5,4 @@ First codes in the java programming language.
 + 220323 - Area of a circle.
 + 220328 - If/else exercises.
 + 220330 - Switch case.
++ 220401 - If/else and switch command.
