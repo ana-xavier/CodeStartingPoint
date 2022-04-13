@@ -23,3 +23,11 @@ public class inteiros100a200
             intInicial++;
         }while (intInicial <= 200);
  */
+/*
+        int intInicial = 99;
+        
+        while (intInicial < 200){
+            intInicial++;
+            System.out.println(intInicial);
+        }    
+*/
