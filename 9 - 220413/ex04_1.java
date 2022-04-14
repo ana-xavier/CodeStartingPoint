@@ -17,7 +17,7 @@ public class ex04_1
            resultado = resultado * base ;
            System.out.println("---> " + resultado);
            potencia--;
-       }
+       } 
        //conclusao
    }
 }
