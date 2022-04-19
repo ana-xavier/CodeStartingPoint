@@ -10,3 +10,4 @@ First codes in the java programming language.
 + 220408 - Double Investment.
 + 220411 - While command application, and Do While.
 + 220413 - While command exercises.
++ 220418 - Know that a number is odd or not with while command.
